@@ -1,0 +1,30 @@
+2021-04-12 00:01:15 [http-nio-8080-exec-6] ERROR c.e.demo.controllers.OrderController - User was not found when submitting orders: johnn
+2021-04-12 00:01:31 [http-nio-8080-exec-7] INFO  c.e.demo.controllers.OrderController - Order ID 1 with the total of $null has been submitted
+2021-04-12 00:01:57 [http-nio-8080-exec-8] INFO  c.e.demo.controllers.CartController - Item ID 1 added to user 'john's cart
+2021-04-12 00:02:02 [http-nio-8080-exec-9] INFO  c.e.demo.controllers.OrderController - Order ID 2 with the total of $5.98 has been submitted
+2021-04-12 00:02:23 [http-nio-8080-exec-10] INFO  c.e.demo.controllers.CartController - Item ID 2 added to user 'john's cart
+2021-04-12 00:02:27 [http-nio-8080-exec-1] ERROR c.e.demo.controllers.OrderController - User was not found when submitting orders: johnn
+2021-04-12 00:02:29 [http-nio-8080-exec-2] INFO  c.e.demo.controllers.OrderController - Order ID 3 with the total of $11.95 has been submitted
+2021-04-12 00:02:42 [http-nio-8080-exec-4] ERROR c.e.demo.controllers.CartController - Item ID was not found: 3
+2021-04-12 00:02:56 [http-nio-8080-exec-3] INFO  c.e.demo.controllers.CartController - Item ID 2 added to user 'john's cart
+2021-04-12 00:03:02 [http-nio-8080-exec-5] INFO  c.e.demo.controllers.OrderController - Order ID 4 with the total of $21.90 has been submitted
+2021-04-12 00:03:10 [http-nio-8080-exec-6] INFO  c.e.demo.controllers.CartController - Item ID 2 added to user 'john's cart
+2021-04-12 00:03:12 [http-nio-8080-exec-7] INFO  c.e.demo.controllers.OrderController - Order ID 5 with the total of $23.89 has been submitted
+2021-04-12 00:03:15 [http-nio-8080-exec-8] INFO  c.e.demo.controllers.CartController - Item ID 2 added to user 'john's cart
+2021-04-12 00:03:16 [http-nio-8080-exec-9] INFO  c.e.demo.controllers.CartController - Item ID 2 added to user 'john's cart
+2021-04-12 00:03:18 [http-nio-8080-exec-10] INFO  c.e.demo.controllers.OrderController - Order ID 6 with the total of $27.87 has been submitted
+2021-04-12 00:03:20 [http-nio-8080-exec-1] ERROR c.e.demo.controllers.OrderController - User was not found when submitting orders: johnn
+2021-04-12 00:03:21 [http-nio-8080-exec-2] INFO  c.e.demo.controllers.OrderController - Order ID 7 with the total of $27.87 has been submitted
+2021-04-12 00:03:42 [http-nio-8080-exec-4] INFO  c.e.demo.controllers.CartController - Item ID 1 added to user 'john's cart
+2021-04-12 00:03:44 [http-nio-8080-exec-3] ERROR c.e.demo.controllers.OrderController - User was not found when submitting orders: johnn
+2021-04-12 00:03:46 [http-nio-8080-exec-5] INFO  c.e.demo.controllers.OrderController - Order ID 8 with the total of $30.86 has been submitted
+2021-04-12 00:03:48 [http-nio-8080-exec-6] INFO  c.e.demo.controllers.OrderController - Order ID 9 with the total of $30.86 has been submitted
+2021-04-12 00:03:58 [http-nio-8080-exec-7] ERROR c.e.demo.controllers.OrderController - User was not found when submitting orders: johnn
+2021-04-12 00:04:03 [http-nio-8080-exec-8] INFO  c.e.demo.controllers.OrderController - Order ID 10 with the total of $30.86 has been submitted
+2021-04-12 00:04:05 [http-nio-8080-exec-9] INFO  c.e.demo.controllers.OrderController - Order ID 11 with the total of $30.86 has been submitted
+2021-04-12 00:04:06 [http-nio-8080-exec-10] ERROR c.e.demo.controllers.OrderController - User was not found when submitting orders: johnn
+2021-04-12 00:04:10 [http-nio-8080-exec-1] INFO  c.e.demo.controllers.OrderController - Order ID 12 with the total of $30.86 has been submitted
+2021-04-12 00:04:32 [http-nio-8080-exec-2] INFO  c.e.demo.controllers.OrderController - Order ID 13 with the total of $30.86 has been submitted
+2021-04-12 00:04:40 [http-nio-8080-exec-4] ERROR c.e.demo.controllers.OrderController - User was not found when submitting orders: johnn
+2021-04-12 00:04:45 [http-nio-8080-exec-3] ERROR c.e.demo.controllers.OrderController - User was not found when submitting orders: johnn
+2021-04-12 00:04:55 [http-nio-8080-exec-5] INFO  c.e.demo.controllers.OrderController - Order ID 14 with the total of $30.86 has been submitted
